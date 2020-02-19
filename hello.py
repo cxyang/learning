@@ -1,3 +1,7 @@
 print("Hello world")
 print('test branch')
-print('aaaaaaa')
+<<<<<<< HEAD
+print("Creating a new branch is quick AND simple.")
+=======
+print("Creating a new branch is quick AND simple.")
+>>>>>>> feature1
